@@ -7,5 +7,5 @@ if [ $EmpPresent -eq $randomCheck ];
 then
        echo "Employee is Present";
 else
-       echo "Employee is Abscent";
+       echo "Employee is Absent";
 fi
